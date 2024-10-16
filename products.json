@@ -1,0 +1,66 @@
+[
+    {
+        "id": 401,
+        "category_id": 4,
+        "title": "LG 8kg Front Load Washing Machine",
+        "slug": "lg-8kg-front-load-washing-machine",
+        "short_description": "LG 8kg front load washing machine with 6 Motion Direct Drive technology.",
+        "detailed_description": "The LG 8kg front load washing machine offers powerful and gentle washing with its 6 Motion Direct Drive technology. It adjusts washing motions based on the fabric type to reduce wear and tear while providing deep cleaning. It also has a smart diagnosis feature for troubleshooting.",
+        "image": "/products/wasmach.jpg",
+        "images": [
+          "lg_8kg_front_view.jpg",
+          "lg_8kg_side_view.jpg",
+          "lg_8kg_open.jpg"
+        ],
+        "is_featured": true,
+        "is_trending": true,
+        "brand": "LG",
+        "keywords": ["LG", "Washing Machine", "Front Load", "8kg", "6 Motion", "Smart Diagnosis"],
+        "initialprice": 699.99,
+        "currentprice": 649.99,
+        "ratings": 4.7
+      },
+      {
+        "id": 402,
+        "category_id": 4,
+        "title": "Samsung 7kg laptop",
+        "slug": "samsung-7kg-top-load-washing-machine",
+        "short_description": "Samsung 7kg top load washing machine with Wobble technology.",
+        "detailed_description": "The Samsung 7kg top load washing machine features Wobble technology to prevent tangling while providing a powerful yet gentle wash. The machine includes multiple wash programs for different fabrics and a magic filter to trap lint.",
+        "image": "/products/laptop.jpg",
+        "images": [
+          "samsung_7kg_front_view.jpg",
+          "samsung_7kg_top_open.jpg",
+          "samsung_7kg_control_panel.jpg"
+        ],
+        "is_featured": false,
+        "is_trending": true,
+        "brand": "Samsung",
+        "keywords": ["Samsung", "Washing Machine", "Top Load", "7kg", "Wobble Technology", "Lint Filter"],
+        "initialprice": 499.99,
+        "currentprice": 459.99,
+        "ratings": 4.5
+      },
+      {
+        "id": 403,
+        "category_id": 4,
+        "title": "Whirlpool 10kg Semi-Automatic Washing Machine",
+        "slug": "whirlpool-10kg-semi-automatic-washing-machine",
+        "short_description": "Whirlpool 10kg semi-automatic washing machine with turbo scrub technology.",
+        "detailed_description": "The Whirlpool 10kg semi-automatic washing machine is equipped with turbo scrub technology for a thorough cleaning experience. It has a large wash tub, effective drying, and multiple wash modes to cater to different fabric types.",
+        "image": "/products/bansin.jpg",
+        "images": [
+          "whirlpool_10kg_front_view.jpg",
+          "whirlpool_10kg_control_panel.jpg",
+          "whirlpool_10kg_open.jpg"
+        ],
+        "is_featured": false,
+        "is_trending": false,
+        "brand": "Whirlpool",
+        "keywords": ["Whirlpool", "Washing Machine", "Semi-Automatic", "10kg", "Turbo Scrub", "Large Tub"],
+        "initialprice": 399.99,
+        "currentprice": 349.99,
+        "ratings": 4.3
+      }
+
+]

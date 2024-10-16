@@ -1,0 +1,32 @@
+[ 
+    
+    {
+        "id": 1,
+        "title": "Television",
+        "slug":"television",
+        "price":"98000",
+        "description": "High-definition televisions with stunning picture quality.",
+        "image": "/categories/tv.avif",
+        "keywords": ["TV", "HD", "smart TV", "4K", "OLED"]
+    },
+    {
+        "id": 2,
+        "title": "Fridge",
+        "slug":"fridge",
+        "price":"6000",
+        "description": "Energy-efficient refrigerators with spacious interiors.",
+        "image": "/categories/freez.avif",
+        "keywords": ["refrigerator", "cooling","energy-efficient","frost-free", "double door"]
+    },
+    {
+        "id": 3,
+        "title": "Microwave",
+        "slug":"microwave",
+        "price":"2000",
+        "description": "Compact microwaves for quick and easy cooking.",
+        "image": "/categories/washing machine.jfif",
+        "keywords": ["microwave oven", "cooking", "compact", "quick meals", "kitchen appliance"]
+    }
+    
+    
+]
